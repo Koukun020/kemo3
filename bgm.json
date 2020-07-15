@@ -273,10 +273,22 @@
  },
  {
   "bgmname":"prd_bgm0075",
-  "comment":"バトル用　ゴシックラック「さくらてのひら"
+  "comment":"バトル用　ゴシックラック「さくらてのひら」"
  },
  {
   "bgmname":"prd_bgm0076",
+  "comment":""
+ },
+ {
+  "bgmname":"prd_bgm0077",
+  "comment":""
+ },
+ {
+  "bgmname":"prd_bgm0078",
+  "comment":""
+ },
+ {
+  "bgmname":"prd_bgm0079",
   "comment":""
  }
 }
